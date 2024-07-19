@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "description": "Some description",
+        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+    },
+    {
+        "id": 2,
+        "description": "Another description",
+        "videoUrl": "https://www.youtube.com/embed/C0DPdy98e4c"
+    }
+]
