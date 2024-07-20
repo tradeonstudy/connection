@@ -1,0 +1,82 @@
+{
+  "message": "",
+  "error": 0,
+  "data": {
+    "categories": [
+      {
+        "id": 1,
+        "name": "Patterns",
+        "img": "https://i.ibb.co/brGMPJP/2024-05-02-16-00-52.png",
+        "price": 30,
+        "created_at": null,
+        "goods": [
+          {
+            "id": 91,
+            "name": "Pennants",
+            "img": "https://i.ibb.co/1RP14xx/peanats.png",
+            "price": 200,
+            "description": "Pennants are continuation patterns drawn with two trendlines that eventually converge. A key characteristic of pennants is that the trendlines move in two directions—one will be a down trendline and the other an up trendline. The figure below shows an example of a pennant. Often, the volume will decrease during the formation of the pennant, followed by an increase when the price eventually breaks out. A bullish pennant is a pattern that indicates an upward trending price—the flagpole is on the left of the pennant."
+          },
+          {
+            "id": 90,
+            "name": "Flags",
+            "img": "https://i.ibb.co/Fh6zGhV/flag.png",
+            "price": 250,
+            "description": "Flags are continuation patterns constructed using two parallel trendlines that can slope up, down, or sideways (horizontal). Generally, a flag with an upward slope (bullish) appears as a pause in a down trending market; a flag with a downward bias (bearish) shows a break during an up trending market. Typically, the flag's formation is accompanied by declining volume, which recovers as price breaks out of the flag formation."
+          },
+			{
+            "id": 92,
+            "name": "Wedges",
+            "img": "https://i.ibb.co/wRm7QWk/wedget.png",
+            "price": 300,
+            "description": "Wedges are continuation patterns similar to pennants in that they are drawn using two converging trendlines; however, a wedge is characterized by the fact that both trendlines are moving in the same direction, either up or down. A wedge angled down represents a pause during an uptrend; a wedge angled up shows a temporary interruption during a falling market. As with pennants and flags, volume typically tapers off during pattern formation, only to increase once price breaks above or below the wedge pattern. Wedges differ from triangles and pennants in that they reflect only upward and downward price movements, so the wedge generally appears angled."
+          },
+			{
+            "id": 93,
+            "name": "Ascending",
+            "img": "https://i.ibb.co/X3xNv3y/Ascending-Triangles.png",
+            "price": 1000,
+            "description": "An ascending triangle is a continuation pattern marking a trend with a specific entry point, profit target, and stop loss level. The resistance line intersects the breakout line, pointing out the entry point. The ascending triangle is a bullish trading pattern."
+          },
+			{
+            "id": 94,
+            "name": "Descending",
+            "img": "https://i.ibb.co/pKjChFH/Descending-Triangles.png",
+            "price": 1500,
+            "description": "The descending triangle is the opposite of the ascending triangle, indicating that demand is decreasing, and a descending upper trend line suggests a breakdown is likely to occur."
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Patterns part 2",
+        "img": "https://i.ibb.co/s2SJ8LC/basket-t-shirt.jpg",
+        "price": 35,
+        "created_at": null,
+        "goods": [
+          {
+            "id": 101,
+            "name": "Symmetrical Triangles",
+            "img": "https://i.ibb.co/K0Lscnr/Symmetrical-Triangles.png",
+            "price": 250,
+            "description": "Symmetrical triangles occur when two trend lines converge toward each other and signal only that a breakout is likely to occur, there is no upward or downward trend. The magnitude of the breakouts or breakdowns is typically the same as the height of the left vertical side of the triangle, as shown in the figure below."
+          },
+          {
+            "id": 102,
+            "name": "Cup and Handles",
+            "img": "https://i.ibb.co/wYPnNSn/Cup-and-Handles.png",
+            "price": 350,
+            "description": "The cup and handle is a bullish continuation pattern where an upward trend has paused but will continue when the pattern is confirmed. The cup portion of the pattern should be a U shape that resembles the rounding of a bowl rather than a V shape with equal highs on both sides of the cup. The handle forms on the right side of the cup in the form of a short pullback that resembles a flag or pennant chart pattern. Once the handle is complete, the stock may breakout to new highs and resume its trend higher."
+          },
+			{
+            "id": 103,
+            "name": "Head and Shoulders",
+            "img": "https://i.ibb.co/N2d1NDd/headandshoulders.png",
+            "price": 700,
+            "description": "Head and shoulders is a reversal pattern that can appear at market tops or bottoms as a series of three pushes an initial peak or trough, followed by a second and larger one, and then a third push that mimics the first. An uptrend interrupted by a head and shoulders top pattern may experience a trend reversal, resulting in a downtrend. Conversely, a downtrend that results in a head and shoulders bottom (or an inverse head and shoulders) will likely experience a trend reversal to the upside. Horizontal or slightly sloped trendlines can be drawn connecting the peaks and troughs between the head and shoulders, as shown in the figure below. Volume may decline as the pattern develops and spring back once the price breaks above (in the case of a head and shoulders bottom) or below (in the case of a head and shoulders top) the trendline."
+          }
+        ]
+      }
+    ]
+  }
+}
