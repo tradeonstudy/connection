@@ -1,12 +1,17 @@
 [
     {
         "id": 1,
-        "description": "Some description",
-        "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+        "description": "trading for beginners (TradingLab)",
+        "videoUrl": "https://www.youtube.com/watch?v=i5OZQQWj5-I"
     },
     {
         "id": 2,
-        "description": "Another description",
-        "videoUrl": "https://www.youtube.com/embed/C0DPdy98e4c"
+        "description": "Ultimate Chart Patterns Trading Course (Wysetrade) ",
+        "videoUrl": "https://www.youtube.com/watch?v=aRlWle9smww"
+    },
+    {
+        "id": 3,
+        "description": "Trading Strategy (TradingLab) ",
+        "videoUrl": "https://www.youtube.com/watch?v=rf_EQvubKlk"
     }
 ]
